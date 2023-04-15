@@ -1309,3 +1309,307 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.15-07.53.41:928][476]LogSlate: Window 'MI_Solid_purple' being destroyed
 [2023.04.15-07.53.41:954][476]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2023.04.15-07.53.41:955][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-08.01.18:721][794]LogSlate: Window 'Source Control Login' being destroyed
+[2023.04.15-08.01.24:475][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.15-08.01.25:751][137]LogSlate: Window 'Save Content' being destroyed
+[2023.04.15-08.01.25:773][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-08.01.25:879][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0K/KDQX9MPL2UJ12J3XGRHTJJ
+[2023.04.15-08.01.25:880][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/KDQX9MPL2UJ12J3XGRHTJJAD3B4E2B493B47CBE8E47CB9D65AE189.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0K/KDQX9MPL2UJ12J3XGRHTJJ.uasset'
+[2023.04.15-08.01.25:885][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W4/30Q9PA7SJUEEGVE2JGJLCV
+[2023.04.15-08.01.25:885][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/30Q9PA7SJUEEGVE2JGJLCVF0E4AD35473F483E811561A825F7B48D.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W4/30Q9PA7SJUEEGVE2JGJLCV.uasset'
+[2023.04.15-08.01.25:889][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/58/X0WPKBJIT9863UZE3GBURK
+[2023.04.15-08.01.25:889][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/X0WPKBJIT9863UZE3GBURK242A671A4DCF97983120619BD1ED2455.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/58/X0WPKBJIT9863UZE3GBURK.uasset'
+[2023.04.15-08.01.25:893][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KI/ZRCSIVNHSQ6MMOEZTZBBVQ
+[2023.04.15-08.01.25:893][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/ZRCSIVNHSQ6MMOEZTZBBVQ08D36059473538405742F7A6535331E3.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KI/ZRCSIVNHSQ6MMOEZTZBBVQ.uasset'
+[2023.04.15-08.01.25:898][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1Q/6WQA7JT0A9DCAUOKZVO8BL
+[2023.04.15-08.01.25:899][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/6WQA7JT0A9DCAUOKZVO8BL9730828046EBAF271BFC9AB0164E3DA8.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1Q/6WQA7JT0A9DCAUOKZVO8BL.uasset'
+[2023.04.15-08.01.25:903][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IY/3I9YTRN3PX8AJ596ABWZ4Q
+[2023.04.15-08.01.25:903][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/3I9YTRN3PX8AJ596ABWZ4QA2627D8841F0E4BDB1C42EBCA6FE6718.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IY/3I9YTRN3PX8AJ596ABWZ4Q.uasset'
+[2023.04.15-08.01.25:907][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8L/L5N94C7P89FM31H082218K
+[2023.04.15-08.01.25:907][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/L5N94C7P89FM31H082218KDED40D4D4836F3076BA63F8AE724FECC.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8L/L5N94C7P89FM31H082218K.uasset'
+[2023.04.15-08.01.25:912][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/LJ/7T1B1P68W0L48G5EE70ZJU
+[2023.04.15-08.01.25:912][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/7T1B1P68W0L48G5EE70ZJU41AC543D413AA78AEB8E1986C61C84F6.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/LJ/7T1B1P68W0L48G5EE70ZJU.uasset'
+[2023.04.15-08.01.25:917][137]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1K/CUD6DYFZKC2IQYV7RE22PM
+[2023.04.15-08.01.25:917][137]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/CUD6DYFZKC2IQYV7RE22PME6C0A5A44B7FE6D48693049C4A6789D0.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/1K/CUD6DYFZKC2IQYV7RE22PM.uasset'
+[2023.04.15-08.01.25:968][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 2.57 sec)
+[2023.04.15-08.01.25:974][137]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1081017723
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1078898722
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1077433721
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1074998720
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1537901_2146674543
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1157937727
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1155021726
+[2023.04.15-08.01.25:974][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1152862725
+[2023.04.15-08.01.25:975][137]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1547901_1141928724
+[2023.04.15-08.05.54:228][790]LogViewport: Scene viewport resized to 826x630, mode Windowed.
+[2023.04.15-08.05.54:321][790]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=FxSound Speakers (FxSound Audio Enhancer), InstanceID=1
+[2023.04.15-08.05.54:400][790]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3340
+[2023.04.15-08.05.54:511][792]LogViewport: Scene viewport resized to 826x600, mode Windowed.
+[2023.04.15-08.05.54:765][792]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{726bc66f-10b9-4618-9b44-60e392f46784}, Name=FxSound Speakers (FxSound Audio Enhancer)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=53.22
+[2023.04.15-08.05.54:765][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.15-08.05.54:790][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.15-08.16.34:895][373]LogSlate: Window 'Source Control Login' being destroyed
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Bridge/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Bridge/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:996][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaPlate/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Interchange/Runtime/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRig/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/IKRig/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:997][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Metasound/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.58:998][768]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.16.59:289][768]EditorErrors: Warning: No assets to check in!
+[2023.04.15-08.17.09:189][335]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-08.17.09:198][335]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-08.17.19:056][912]SourceControl: Error: warning: could not open directory 'purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2023.04.15-08.17.20:051][972]SourceControl: Error: warning: could not open directory 'purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2023.04.15-08.17.24:263][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.15-08.17.24:485][213]SourceControl: Error: warning: could not open directory 'purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/': No such file or directory
+[2023.04.15-08.17.24:510][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-08.17.24:568][213]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XX/IK30N6RY6W68X5B3NQTFVH
+[2023.04.15-08.17.24:568][213]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/IK30N6RY6W68X5B3NQTFVH1962A2914EC94532F72981B911FDC1F3.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XX/IK30N6RY6W68X5B3NQTFVH.uasset'
+[2023.04.15-08.17.25:050][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 540 ms (total: 3.11 sec)
+[2023.04.15-08.17.25:061][213]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_D0C5D32759F1557901_1473675904
+[2023.04.15-08.17.25:061][213]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D0C5D32759F1557901_1473675904
+[2023.04.15-08.17.33:482][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:482][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Bridge/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Bridge/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:482][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:482][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:482][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaPlate/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Interchange/Runtime/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:483][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRig/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/IKRig/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Metasound/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.17.33:484][684]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.20.27:210][684]LogSlate: Window 'Submit Files' being destroyed
+[2023.04.15-08.20.29:124][684]LogSourceControl: commit successful: [main f10301b] added a cube
+[2023.04.15-08.20.29:391][684]SourceControl: [main f10301b] added a cube
+[2023.04.15-08.20.29:391][684]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.04.15-08.20.29:391][684]SourceControl:  create mode 100644 purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XX/IK30N6RY6W68X5B3NQTFVH.uasset
+[2023.04.15-08.20.29:391][684]SourceControl:  create mode 100644 purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0K/KDQX9MPL2UJ12J3XGRHTJJ.uasset
+[2023.04.15-08.20.29:413][684]SourceControl: Commited [main f10301b] added a cube.
+[2023.04.15-08.23.27:039][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.15-08.23.27:070][720]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.15-08.23.27:075][720]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-08.23.27:075][720]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-08.23.27:076][720]LogWorldPartition: Display: GetPartitionedActors took 672 us
+[2023.04.15-08.23.27:076][720]LogWorldPartition: Display: GenerateStreaming took 2 ms
+[2023.04.15-08.23.27:085][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-08.23.27:091][720]PIE: New page: PIE session: ThirdPersonMap (Apr 15, 2023, 2:23:27 PM)
+[2023.04.15-08.23.27:103][720]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.15-08.23.27:104][720]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.15-08.23.27:105][720]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.15-08.23.27:123][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017365s)
+[2023.04.15-08.23.27:123][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.018028s)
+[2023.04.15-08.23.27:124][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-08.23.27:125][720]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.04.15-08.23.27:126][720]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.15-08.23.27:126][720]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-08.23.27:126][720]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.15-08.23.27:129][720]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.04.15-08.23.27:129][720]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.25 sec)
+[2023.04.15-08.23.27:129][720]LogPlayLevel: PIE: World Init took: (0.005391s)
+[2023.04.15-08.23.27:147][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.15-08.23.27:150][720]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.15-08.23.27:150][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-08.23.27:150][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-08.23.27:150][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-08.23.27:150][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-08.23.27:150][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.15-08.23.27:151][720]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-08.23.27:151][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.15-08.23.27:151][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-08.23.27:152][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-08.23.27:152][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-08.23.27:152][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-08.23.27:156][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-08.23.27:184][720]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2023.04.15-08.23.27:185][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-08.23.27:186][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-08.23.27:186][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-08.23.27:189][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.15-08.23.27:189][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.15-08.23.27:193][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.15-08.23.27:193][720]LogInit: FAudioDevice initialized.
+[2023.04.15-08.23.27:193][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.15-08.23.27:193][720]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.04.15-08.23.27:204][720]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.15-08.23.27:209][720]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.04.15-11.23.27
+[2023.04.15-08.23.27:211][720]LogWorld: Bringing up level for play took: 0.005633
+[2023.04.15-08.23.27:217][720]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.04.15-08.23.27:342][720]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.04.15-08.23.27:348][720]PIE: Server logged in
+[2023.04.15-08.23.27:350][720]PIE: Play in editor total start time 0.281 seconds.
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: ================================================
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Total job queries 135, among them cache hits 10 (7.41%)
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 97 distinct outputs (77.60%)
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 614.40 MB (0.60 GB) budget. Usage: 0.07%
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Average time worker was idle: 9.32 s
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Job execution time: average 3.04 s, max 4.81 s
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Job life time (pending + execution): average 3.10 s, max 4.91
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.93 s
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Average processing rate: 1.01 jobs/sec
+[2023.04.15-08.23.27:754][721]LogShaderCompilers: Display: Total thread time: 18.98 s
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display: Total thread preprocess time: 1.34 s
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display: Percentage time preprocessing: 7.08%
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display: Effective parallelization: 1.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 2.46 sec, max 2.63 sec, min 2.30 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 2.32 sec, max 2.37 sec, min 2.27 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 1.83 sec, max 1.92 sec, min 1.74 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 1.38 sec, max 1.40 sec, min 1.35 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.98% of total time (compiled    2 times, average 2.46 sec, max 2.63 sec, min 2.30 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.45% of total time (compiled    2 times, average 2.32 sec, max 2.37 sec, min 2.27 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.30% of total time (compiled    2 times, average 1.83 sec, max 1.92 sec, min 1.74 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.50% of total time (compiled    2 times, average 1.38 sec, max 1.40 sec, min 1.35 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.94% of total time (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2023.04.15-08.23.27:755][721]LogShaderCompilers: Display: ================================================
+[2023.04.15-08.23.40:076][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-08.23.40:076][202]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.04.15-08.23.40:078][202]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-08.23.40:079][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-08.23.40:079][202]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.04.15-08.23.40:085][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-08.23.40:089][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-08.23.40:105][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-08.23.40:105][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.15-08.23.40:108][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.15-08.23.40:121][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.15-08.23.40:166][203]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.04.15-08.23.43:484][390]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_Solid_purple.MI_Solid_purple
+[2023.04.15-08.23.43:488][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-08.23.43:861][390]LogViewport: Scene viewport resized to 947x600, mode Windowed.
+[2023.04.15-08.24.03:652][445]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.15-08.24.06:687][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-08.24.06:755][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/MI_Solid_purple" FILE="../../../../../../git/test001/purple2/Content/LevelPrototyping/Materials/MI_Solid_purple.uasset" SILENT=true
+[2023.04.15-08.24.06:775][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.15-08.24.06:794][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.15-08.24.06:797][605]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MI_Solid_purple
+[2023.04.15-08.24.06:797][605]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/MI_Solid_purple303428B744307E71CC3172964CDFF64D.tmp' to '../../../../../../git/test001/purple2/Content/LevelPrototyping/Materials/MI_Solid_purple.uasset'
+[2023.04.15-08.24.06:806][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 3.23 sec)
+[2023.04.15-08.24.06:811][605]AssetCheck: New page: Asset Save: MI_Solid_purple
+[2023.04.15-08.24.06:811][605]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_Solid_purple.MI_Solid_purple
+[2023.04.15-08.24.07:837][660]LogSlate: Window 'MI_Solid_purple' being destroyed
+[2023.04.15-08.24.07:911][660]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-08.24.07:912][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-08.24.18:338][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:338][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Bridge/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Bridge/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/FX/Niagara/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaPlate/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Interchange/Runtime/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:339][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRig/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/IKRig/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/2D/Paper2D/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Metasound/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.18:340][244]SourceControl: fatal: D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Programs/Unreal Engine/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'D:/git/test001'
+[2023.04.15-08.24.30:657][244]LogSlate: Window 'Submit Files' being destroyed
+[2023.04.15-08.24.31:261][244]LogSourceControl: commit successful: [main cbb4d91] purple mat
+[2023.04.15-08.24.31:395][244]SourceControl: [main cbb4d91] purple mat
+[2023.04.15-08.24.31:395][244]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.04.15-08.24.31:418][244]SourceControl: Commited [main cbb4d91] purple mat.
