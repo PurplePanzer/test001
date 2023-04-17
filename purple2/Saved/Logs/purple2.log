@@ -1480,3 +1480,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.17-12.11.22:328][782]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/Q7Y1URWWFS0TXGWUTO3S61_Auto2FFB0DF1D4C7F2239837796AEAEA85DE9.tmp' to '../../../../../../git/test001/purple2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61_Auto2.uasset'
 [2023.04.17-12.11.22:329][782]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
 [2023.04.17-12.11.22:329][782]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2023.04.17-12.43.16:026][533]LogDerivedDataCache: C:/Users/PurplePanzer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.051 and deleted 40 files with total size 46 MiB. Scanned 51668 files in 2623 folders with total size 27237 MiB.
+[2023.04.17-12.45.14:721][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.17-12.45.14:800][ 27]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2023.04.17-12.45.14:800][ 27]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/Q7Y1URWWFS0TXGWUTO3S61938A4972460A30EFAD061CA0A456BE2F.tmp' to '../../../../../../git/test001/purple2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2023.04.17-12.45.14:874][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/amine/NewMaterial" FILE="../../../../../../git/test001/purple2/Content/amine/NewMaterial.uasset" SILENT=true
+[2023.04.17-12.45.14:881][ 27]LogSavePackage: Moving output files for package: /Game/amine/NewMaterial
+[2023.04.17-12.45.14:881][ 27]LogSavePackage: Moving '../../../../../../git/test001/purple2/Saved/NewMaterial8DCBEC134953953B812102ABE6999B33.tmp' to '../../../../../../git/test001/purple2/Content/amine/NewMaterial.uasset'
+[2023.04.17-12.45.15:287][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 567 ms (total: 1.26 sec)
+[2023.04.17-12.45.15:365][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.17-12.45.15:366][ 27]LogContentValidation: Display: Validating /Script/Engine.Material /Game/amine/NewMaterial.NewMaterial
+[2023.04.17-12.45.15:366][ 27]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
